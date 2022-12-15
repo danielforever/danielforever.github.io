@@ -6,6 +6,3 @@
 </body>
 </html>
 
-# Build settings
-markdown: kramdown
-theme: benbalter/retlab
